@@ -13,4 +13,4 @@ The page will reload when you make changes.\
 
 |:warning: WARNING   |
 |:-------------------|
-| :point_up: This is  for educational purposes only. Do not use it for your personal satisfaction. And do not use it to harm anyone.|
+|:boom: This is  for educational purposes only. Do not use it for your personal satisfaction. And do not use it to harm anyone.|
