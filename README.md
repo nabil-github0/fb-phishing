@@ -11,4 +11,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 
- **Warning**:This is purely for educational purposses. Do not use it for your personal satisfaction. And do not use it to harm anyone.
+**alert#9a6700;Warning** 
+This is purely for educational purposses. Do not use it for your personal satisfaction. And do not use it to harm anyone.
