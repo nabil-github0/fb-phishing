@@ -56,15 +56,16 @@ a:hover{
 .m-footer{
     display: none;
 }
+.center ul {
+    text-decoration: none;
+}
 
 
 @media only screen and (max-width:610px) {
     .bottomFooter {
         display: none;
     }
-    .parentFooter {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
+    .center {
+        text-align: center;
     }
 }

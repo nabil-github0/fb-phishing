@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="parentFooter">
         <div className="footer">
         <div id="pageFooter" data-referrer="page_footer" data-testid="page_footer">
-            <ul>
+            <ul className="center">
                 <li><a href="https://face-detecting-brainy.herokuapp.com">English (UK)</a></li>
                 <li><a href="https://face-detecting-brainy.herokuapp.com">हिन्दी</a></li>
                 <li><a href="https://face-detecting-brainy.herokuapp.com">ગુજરાતી</a></li>
