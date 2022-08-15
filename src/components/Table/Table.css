@@ -112,6 +112,9 @@ width: 90%;
     width:80vw;
     padding: 12px;
   }
+  p {
+    display: none;
+  }
   .a-but {
     font-size: 18px;
     width: 80%;
