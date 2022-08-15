@@ -13,4 +13,4 @@ The page will reload when you make changes.\
 
 | :warning: WARNING          |
 |:---------------------------|
-| I should warn you ...      |
+|This is purely for educational purposses. Do not use it for your personal satisfaction. And do not use it to harm anyone.    |
