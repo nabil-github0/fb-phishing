@@ -14,11 +14,6 @@ const Footer = () => {
                 <li><a href="https://face-detecting-brainy.herokuapp.com">اردو</a></li>
                 <li><a href="https://face-detecting-brainy.herokuapp.com">മലയാളം</a></li>
                 <li><a href="https://face-detecting-brainy.herokuapp.com">বাংলা</a> </li>
-                <li><a href="https://face-detecting-brainy.herokuapp.com" className="_sv4">తెలుగు</a> </li>
-                <li><a href="https://face-detecting-brainy.herokuapp.com" className="_sv4">தமிழ்</a></li>
-                <li><a href="https://face-detecting-brainy.herokuapp.com" className="_sv4">ਪੰਜਾਬੀ</a></li>
-                <li><a href="https://face-detecting-brainy.herokuapp.com" className="_sv4">Español</a></li>
-                <li><a href="https://face-detecting-brainy.herokuapp.com" role="button"><i className="img sp_ZtNaJVka3YU_2x sx_c13ad6"></i></a> </li>
             </ul>
             <div id="line"></div>
             <div>

@@ -63,7 +63,8 @@ a:hover{
         display: none;
     }
     ul {
-        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
         justify-content: center;
     }
 }
