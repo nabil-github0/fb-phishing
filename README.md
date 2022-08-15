@@ -2,7 +2,7 @@
 
 ## To start working with this app follow the rules given below -->
 
-1.Clone this repo.\
+1.--> Clone this repo.\
 2.--> `cd fb-phishing`\
 3.--> `npm start`
 
