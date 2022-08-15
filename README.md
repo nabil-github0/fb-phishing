@@ -4,6 +4,7 @@
 
 1 --> Clone this repo.\
 2 --> `cd fb-phishing`\
+4 --> `npm install`\
 3 --> `npm start`
 
 The instuciton given above will run the app in the development mode.\
