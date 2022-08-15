@@ -62,7 +62,7 @@ a:hover{
     .bottomFooter {
         display: none;
     }
-    ul {
+    .parentFooter {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
