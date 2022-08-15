@@ -62,4 +62,8 @@ a:hover{
     .bottomFooter {
         display: none;
     }
+    ul {
+        text-align: center;
+        justify-content: center;
+    }
 }
