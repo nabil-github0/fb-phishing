@@ -2,9 +2,9 @@
 
 ## To start working with this app follow the rules given below -->
 
-1.First clone this repo.\
-2.## `cd fb-phishing`\
-3.## `npm start`
+1.Clone this repo.\
+2.--> `cd fb-phishing`\
+3.--> `npm start`
 
 The instuciton given above will run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
