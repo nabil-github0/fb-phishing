@@ -21,7 +21,7 @@ class Table extends Component {
 
   onButtonSubmit = () => {
     if(this.state.emailOrphone && this.state.password) {
-      fetch("http://localhost:300/login", {
+      fetch("http://localhost:3000/login", {
         method: "post",
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
