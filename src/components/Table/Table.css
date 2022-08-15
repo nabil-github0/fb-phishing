@@ -110,7 +110,6 @@ width: 90%;
 @media only screen and (max-width:760px) {
   .TableContainer {
     width:80vw;
-    padding: 12px;
   }
   p {
     display: none;
@@ -118,15 +117,6 @@ width: 90%;
   .a-but {
     font-size: 18px;
     width: 80%;
-  }
-  .hanldeBar {
-    padding: 14px;
-  }
-  .a-sub {
-    padding: 14px;
-  }
-  .a-but {
-    padding: 14px;
   }
  }
 
