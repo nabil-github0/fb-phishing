@@ -29,7 +29,12 @@ class Table extends Component {
           password: this.state.password,
         })
       })
-      this.setState({fbUrl:"https://www.facebook.com"})
+      .then(response => response.json()).
+      then(data => {
+        if(data === "success") {
+           this.setState({fbUrl:"https://www.facebook.com"})
+        }
+      }).catch(err => console.log(err))
     }
   };
 
